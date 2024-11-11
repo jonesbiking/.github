@@ -12,5 +12,5 @@ We are a small team of enthusiastic mountain bikers located in Fairfax, VA. Our 
 
 ## Roles:
 - CEO, CFO, CHRM: Oliver J
-- CIO, CX: Jacob C
+- Co-CEO, CIO, CX: Jacob C
 - CMO: Arsalan M
